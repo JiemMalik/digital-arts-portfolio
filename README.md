@@ -3,7 +3,7 @@ Digital Arts Portfolio | BSIT
 
 ## Links
 - [Google Sites Portfolio](https://sites.google.com/view/inesin-john-michael-r/home)
-- [CV](https://docs.google.com/document/d/1vykCrIwdn92czYmCp3iFDBsTc0KXpkRS/edit?usp=drive_link&ouid=114283617243047544247&rtpof=true&sd=true)
+- [CV](https://drive.google.com/file/d/1kUVJBPeo-5Zrk_ko6xGEz2KR9duY6oaB/view?usp=drive_link)
 
 ## Animations
 
